@@ -1,2 +1,2 @@
 # test
-Github test :-)
+Github installation test :-)
